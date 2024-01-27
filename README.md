@@ -53,6 +53,8 @@ jobs:
             - name: Build
               run: npm run build```
 ```
+### > 결과
+![image](https://github.com/youngwan2/github-action-study/assets/107159871/3857ece5-e291-4bd4-a424-53af1d6a015e)
 
 
 ### 2 ) ... 계속 추가 예정
